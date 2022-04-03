@@ -7,3 +7,5 @@ We built a website that provides students with opportunties and scholarships. Th
 Feel free to explore our website! Reach out if you have any questions or suggestions (rshah090@ucr.edu).
 
 Thanks :)
+
+PS: If you're ever on UCR-SECURE Wi-Fi and you want to check out our site, enter 10.13.232.218 into your address bar! The website is currently running on a Raspberry Pi in Gavin's dorm room. We were inspired by Professor Allan Knight, who's also running a website off of a Raspberry Pi.
